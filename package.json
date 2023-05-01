@@ -1,13 +1,13 @@
 {
   "name": "05tut",
   "version": "1.0.0",
-  "description": "Express Tutorial",
+  "description": "hnthuy222",
   "main": "server.js",
   "scripts": {
     "start": "node server",
     "dev": "nodemon server"
   },
-  "author": "Dave Gray",
+  "author": "hnthuy222",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.0",
